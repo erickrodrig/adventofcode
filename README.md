@@ -1,7 +1,7 @@
 # Advent of code
 
-Those are my solutions to [Advent of Code](https://adventofcode.com).
+These are my solutions to [Advent of Code](https://adventofcode.com).
 
-I started doing the challenges in 2023 as practice, I'm not following the calendar accordingly or doing it in a competitive way.
+I started doing the challenges in 2023 as a practice.
 
 P.S. My answers are not the best approaches xD
